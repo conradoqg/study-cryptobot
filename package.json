@@ -1,0 +1,22 @@
+{
+  "name": "study-cryptobot",
+  "version": "0.1.0",
+  "description": "",
+  "main": "main.js",
+  "author": "Conrado Quilles Gomes <conradoqg@gmail.com>",
+  "homepage": "https://github.com/conradoqg/study-cryptobot",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/conradoqg/cryptocoinwatch.git"
+},
+  "dependencies": {
+    "colors": "^1.1.2",
+    "dotenv": "^4.0.0",
+    "fs-extra": "^4.0.1",
+    "kraken-api": "^1.0.0",
+    "ramda": "^0.24.1",
+    "slayer": "^1.0.1",
+    "terminal-kit": "^1.13.10"
+  }
+}
